@@ -36,9 +36,4 @@ FaceGuard Pro is an intelligent screen security solution that automatically lock
    python testing.py
    ```
 
-## License
 
-[MIT License](LICENSE)
-
----
-*Note: Press 'q' to quit the application.*
