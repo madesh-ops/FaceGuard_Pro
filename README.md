@@ -1,6 +1,6 @@
-# FaceGuard Pro
+# IdleSecure
 
-FaceGuard Pro is an intelligent screen security solution that automatically locks your Windows workstation when you're away from your computer, using real-time face detection and monitoring.
+IdleSecure is an intelligent screen security solution that automatically locks your Windows workstation when you're away from your computer, using real-time face detection and monitoring.
 
 ## Key Features
 
